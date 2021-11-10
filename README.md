@@ -15,7 +15,7 @@ This board provides power, GPIO, and Micro SD to the commonly-available
 ESP8266 wifi modules. This first revision is intended for internal use
 at Open Robotics Company, but may find it's way out to the world also.
 
-Built using [KiCad EDA](http://kicad-pcb.org/)
+Built using [KiCad EDA](http://kicad.org/)
 
 PCB images courtesy of OSHPark's magical preview.
 
